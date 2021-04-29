@@ -1,13 +1,131 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "MRV Chaudron",
+    "title": "M.R.V. Chaudron",
     "description": "",
     "home_page_url": "https://mrvchaudron.github.io/profile",
     "feed_url": "https://mrvchaudron.github.io/profile/feed.json",
     "user_comment": "",
     "author": {
-        "name": "MRV Chaudron"
+        "name": "michel"
     },
     "items": [
+        {
+            "id": "https://mrvchaudron.github.io/profile/tweets.html",
+            "url": "https://mrvchaudron.github.io/profile/tweets.html",
+            "title": "#Tweets",
+            "summary": "A Twitter List by TwitterDev ",
+            "content_html": "<p><a class=\"twitter-timeline\" data-dnt=\"true\" href=\"https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw\">A Twitter List by TwitterDev</a>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-27T17:16:12+02:00",
+            "date_modified": "2021-04-27T17:16:12+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/guest-lecture-at-itb.html",
+            "url": "https://mrvchaudron.github.io/profile/guest-lecture-at-itb.html",
+            "title": "Guest Lecture at ITB",
+            "summary": "Maybe embed a youtube video here, or link to the event information.",
+            "content_html": "<p>Maybe embed a youtube video here, or link to the event information.</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+                   "Talks"
+            ],
+            "date_published": "2021-04-27T16:55:40+02:00",
+            "date_modified": "2021-04-27T16:55:40+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/phd-position-on-some-topic-2.html",
+            "url": "https://mrvchaudron.github.io/profile/phd-position-on-some-topic-2.html",
+            "title": "Some Other Vacancies",
+            "summary": "Info goes here",
+            "content_html": "<p>Info goes here</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+                   "Vacancies"
+            ],
+            "date_published": "2021-04-27T16:53:52+02:00",
+            "date_modified": "2021-04-27T16:54:04+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/phd-position-on-some-topic.html",
+            "url": "https://mrvchaudron.github.io/profile/phd-position-on-some-topic.html",
+            "title": "PhD Position on Some Topic",
+            "summary": "Info goes here",
+            "content_html": "<p>Info goes here</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+                   "Vacancies"
+            ],
+            "date_published": "2021-04-27T16:53:48+02:00",
+            "date_modified": "2021-04-27T16:53:48+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/gallery.html",
+            "url": "https://mrvchaudron.github.io/profile/gallery.html",
+            "title": "Gallery",
+            "summary": " Captions can go here ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/heylagostechie-IgUR1iX0mqM-unsplash.jpg\" data-size=\"6720x4480\"><img loading=\"lazy\" src=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/heylagostechie-IgUR1iX0mqM-unsplash-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a>\n<figcaption>Captions can go here</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/annie-spratt-QckxruozjRg-unsplash.jpg\" data-size=\"7952x5304\"><img loading=\"lazy\" src=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/annie-spratt-QckxruozjRg-unsplash-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/shahadat-rahman-BfrQnKBulYQ-unsplash-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg\" data-size=\"6000x4000\"><img loading=\"lazy\" src=\"https://mrvchaudron.github.io/profile/media/posts/4/gallery/fotis-fotopoulos-DuHKoV44prg-unsplash-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-27T16:52:30+02:00",
+            "date_modified": "2021-04-27T16:52:30+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/some-project-name-2.html",
+            "url": "https://mrvchaudron.github.io/profile/some-project-name-2.html",
+            "title": "Another Project",
+            "summary": "Some text about this other project...",
+            "content_html": "<p>Some text about this other project...</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2021-04-27T16:34:36+02:00",
+            "date_modified": "2021-04-27T16:34:51+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/some-project-name.html",
+            "url": "https://mrvchaudron.github.io/profile/some-project-name.html",
+            "title": "Some Project Name",
+            "summary": "Some text about the project...",
+            "content_html": "<p>Some text about the project...</p>",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2021-04-27T16:34:28+02:00",
+            "date_modified": "2021-04-27T16:34:28+02:00"
+        },
+        {
+            "id": "https://mrvchaudron.github.io/profile/bio.html",
+            "url": "https://mrvchaudron.github.io/profile/bio.html",
+            "title": "Bio",
+            "summary": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/software-engineering-and-technology-w\" class=\"link group\">Software Engineering and Technology - W</a></p>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a></p>\n",
+            "content_html": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/software-engineering-and-technology-w\" class=\"link group\">Software Engineering and Technology - W</a></p>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a></p>\n\n<p>Some more bio...</p>",
+            "image": "https://mrvchaudron.github.io/profile/media/posts/1/chaudron.jpeg",
+            "author": {
+                "name": "michel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-27T16:25:13+02:00",
+            "date_modified": "2021-04-27T16:30:07+02:00"
+        }
     ]
 }

@@ -1,12 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>MRV Chaudron</title>
+    <title>M.R.V. Chaudron</title>
     <link href="https://mrvchaudron.github.io/profile/feed.xml" rel="self" />
     <link href="https://mrvchaudron.github.io/profile" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-04-27T17:16:12+02:00</updated>
     <author>
-        <name>MRV Chaudron</name>
+        <name>michel</name>
     </author>
     <id>https://mrvchaudron.github.io/profile</id>
 
+    <entry>
+        <title>#Tweets</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/tweets.html"/>
+        <id>https://mrvchaudron.github.io/profile/tweets.html</id>
+
+        <updated>2021-04-27T17:16:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    A Twitter List by TwitterDev 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Guest Lecture at ITB</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/guest-lecture-at-itb.html"/>
+        <id>https://mrvchaudron.github.io/profile/guest-lecture-at-itb.html</id>
+            <category term="Talks"/>
+
+        <updated>2021-04-27T16:55:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Maybe embed a youtube video here, or link to the event information.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Maybe embed a youtube video here, or link to the event information.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Some Other Vacancies</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/phd-position-on-some-topic-2.html"/>
+        <id>https://mrvchaudron.github.io/profile/phd-position-on-some-topic-2.html</id>
+            <category term="Vacancies"/>
+
+        <updated>2021-04-27T16:54:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Info goes here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Info goes here</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PhD Position on Some Topic</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/phd-position-on-some-topic.html"/>
+        <id>https://mrvchaudron.github.io/profile/phd-position-on-some-topic.html</id>
+            <category term="Vacancies"/>
+
+        <updated>2021-04-27T16:53:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Info goes here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Info goes here</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/gallery.html"/>
+        <id>https://mrvchaudron.github.io/profile/gallery.html</id>
+
+        <updated>2021-04-27T16:52:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Captions can go here 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://mrvchaudron.github.io/profile/media/posts/4/gallery/heylagostechie-IgUR1iX0mqM-unsplash.jpg" data-size="6720x4480"><img loading="lazy" src="https://mrvchaudron.github.io/profile/media/posts/4/gallery/heylagostechie-IgUR1iX0mqM-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a>
+<figcaption>Captions can go here</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mrvchaudron.github.io/profile/media/posts/4/gallery/annie-spratt-QckxruozjRg-unsplash.jpg" data-size="7952x5304"><img loading="lazy" src="https://mrvchaudron.github.io/profile/media/posts/4/gallery/annie-spratt-QckxruozjRg-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrvchaudron.github.io/profile/media/posts/4/gallery/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg" data-size="5184x3456"><img loading="lazy" src="https://mrvchaudron.github.io/profile/media/posts/4/gallery/shahadat-rahman-BfrQnKBulYQ-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mrvchaudron.github.io/profile/media/posts/4/gallery/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg" data-size="6000x4000"><img loading="lazy" src="https://mrvchaudron.github.io/profile/media/posts/4/gallery/fotis-fotopoulos-DuHKoV44prg-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Another Project</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/some-project-name-2.html"/>
+        <id>https://mrvchaudron.github.io/profile/some-project-name-2.html</id>
+            <category term="Projects"/>
+
+        <updated>2021-04-27T16:34:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Some text about this other project...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some text about this other project...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Some Project Name</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/some-project-name.html"/>
+        <id>https://mrvchaudron.github.io/profile/some-project-name.html</id>
+            <category term="Projects"/>
+
+        <updated>2021-04-27T16:34:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Some text about the project...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some text about the project...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bio</title>
+        <author>
+            <name>michel</name>
+        </author>
+        <link href="https://mrvchaudron.github.io/profile/bio.html"/>
+        <id>https://mrvchaudron.github.io/profile/bio.html</id>
+
+        <updated>2021-04-27T16:30:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mrvchaudron.github.io/profile/media/posts/1/chaudron.jpeg" alt="" />
+                    <h3>Prof. Dr. Michel R. V. Chaudron</h3>
+<p><span class="job-title">Full Professor</span>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/mathematics-and-computer-science" class="link organisation">Mathematics and Computer Science</a>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/software-engineering-and-technology-w" class="link group">Software Engineering and Technology - W</a></p>
+<p><span class="job-title">Full Professor</span>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/mathematics-and-computer-science" class="link organisation">Mathematics and Computer Science</a>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems" class="link team">Engineering of Software-Intensive Systems</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mrvchaudron.github.io/profile/media/posts/1/chaudron.jpeg" alt="" />
+                <h3>Prof. Dr. Michel R. V. Chaudron</h3>
+<p><span class="job-title">Full Professor</span>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/mathematics-and-computer-science" class="link organisation">Mathematics and Computer Science</a>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/software-engineering-and-technology-w" class="link group">Software Engineering and Technology - W</a></p>
+<p><span class="job-title">Full Professor</span>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/mathematics-and-computer-science" class="link organisation">Mathematics and Computer Science</a>, <a rel="Organisation" href="https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems" class="link team">Engineering of Software-Intensive Systems</a></p>
+
+<p>Some more bio...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

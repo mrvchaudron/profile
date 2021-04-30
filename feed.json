@@ -116,8 +116,8 @@
             "id": "https://mrvchaudron.github.io/profile/bio.html",
             "url": "https://mrvchaudron.github.io/profile/bio.html",
             "title": "Bio",
-            "summary": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/software-engineering-and-technology-w\" class=\"link group\">Software Engineering and Technology - W</a></p>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a></p>\n",
-            "content_html": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/software-engineering-and-technology-w\" class=\"link group\">Software Engineering and Technology - W</a></p>\n<p><span class=\"job-title\">Full Professor</span>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Mathematics and Computer Science</a>, <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a></p>\n\n<p>Some more bio...</p>",
+            "summary": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a><br></span><a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Depertment of Mathematics and Computer Science</a>, </p>\n",
+            "content_html": "<h3>Prof. Dr. Michel R. V. Chaudron</h3>\n<p><span class=\"job-title\">Full Professor <a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/engineering-of-software-intensive-systems\" class=\"link team\">Engineering of Software-Intensive Systems</a><br></span><a rel=\"Organisation\" href=\"https://research.tue.nl/en/organisations/mathematics-and-computer-science\" class=\"link organisation\">Depertment of Mathematics and Computer Science</a>, </p>\n\n<p>Michel obtained his M.Sc. and Ph.D. under supervision of Prof. F.J. Peters at Leiden University. The research in these degrees included: program derivation for parallel computing, semantics of program refinement, process algebra/formal methods. During his M.Sc. and Ph.D he spent one year at the Programming Research Group at Oxford University (supervisor C.A.R. Hoare) and at Imperial College London (supervisor: C. Hankin).</p>",
             "image": "https://mrvchaudron.github.io/profile/media/posts/1/chaudron.jpeg",
             "author": {
                 "name": "michel"
@@ -125,7 +125,7 @@
             "tags": [
             ],
             "date_published": "2021-04-27T16:25:13+02:00",
-            "date_modified": "2021-04-27T16:30:07+02:00"
+            "date_modified": "2021-04-30T11:40:36+02:00"
         }
     ]
 }

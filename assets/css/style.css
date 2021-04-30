@@ -3613,8 +3613,8 @@ hr::before,
            --font-weight-bold:   600; 
            --headings-weight:    700;
            --headings-transform: none;        
-           --color:              #F56A6A;  
-           --color-rgb:          245, 106, 106;          
+           --color:              #0CA7FF;  
+           --color-rgb:          12, 167, 255;          
          } 
          img[loading] {
                opacity: 0;
